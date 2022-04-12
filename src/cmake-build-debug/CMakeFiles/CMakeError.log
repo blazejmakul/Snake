@@ -1,0 +1,8 @@
+Determining if the C compiler works failed with the following output:
+Change Dir: C:/Users/blaze/OneDrive - Politechnika Łódzka/Semestr 3/Programowanie Obiektowe/Snake/snake/src/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/MinGW/bin/mingw32-make.exe cmTC_ffb7f/fast && mingw32-make.exe: *** INTERNAL: readdir: No such file or directory
+.  Stop.
+
+
+
